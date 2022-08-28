@@ -10,6 +10,7 @@ require (
 	github.com/eapache/queue v1.1.0
 	github.com/fortytw2/leaktest v1.3.0
 	github.com/golang/snappy v0.0.4 // indirect
+	github.com/grailbio/testutil v0.0.3 // indirect
 	github.com/hashicorp/go-multierror v1.1.1
 	github.com/jcmturner/gofork v1.7.6
 	github.com/jcmturner/gokrb5/v8 v8.4.3
@@ -19,6 +20,7 @@ require (
 	github.com/rcrowley/go-metrics v0.0.0-20201227073835-cf1acfcdf475
 	github.com/stretchr/testify v1.8.0
 	github.com/xdg-go/scram v1.1.1
+	github.com/yasushi-saito/cloudflare-zlib v0.0.0-20190101233134-b1500d970c4e
 	golang.org/x/net v0.0.0-20220809184613-07c6da5e1ced
 	golang.org/x/sync v0.0.0-20220722155255-886fb9371eb4
 	gopkg.in/check.v1 v1.0.0-20201130134442-10cb98267c6c // indirect
